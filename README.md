@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tejuchopde
+- 👋 Hi, I’m @Tejaswinee chopde
 - 👀 I’m interested in Power bi, sql, DBMS, data analysis, DAX, data modelling, data visualization, 
 - 🌱 I’m currently learning python. 
 - 💞️ I’m looking to collaborate on power bi developer, datadase analyst
